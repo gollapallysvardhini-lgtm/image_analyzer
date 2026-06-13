@@ -17,7 +17,7 @@ BLIP
 BLIP is a lightweight vision-language model that generates captions for images.
 
 Tech Stack
-Python 
+Python  
 Streamlit 
 PyTorch 
 Hugging Face Transformers 
