@@ -4,7 +4,7 @@ A simple AI-powered web app that analyzes and describes images using deep learni
 
 Features
 Upload any image (JPG, PNG)
-AI-generated image description
+AI-generated image description 
 Detects objects, people, and scene context
 Fast and simple web interface
 Runs locally on your system
